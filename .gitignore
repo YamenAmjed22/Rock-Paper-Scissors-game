@@ -14,7 +14,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+conponents/*.png
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+### some yamen hiden file ###
+*.png
